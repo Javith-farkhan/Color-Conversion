@@ -124,7 +124,8 @@ cv2.destroyAllWindows()
 
 ### ii)Convert BGR to HSV
 
-![BGR2HSV](BGR2HSV.png)
+
+![BGR2HSV](https://user-images.githubusercontent.com/94296805/228023016-17a09648-67df-4f80-9279-15ce65619a21.png)
 
 
 
