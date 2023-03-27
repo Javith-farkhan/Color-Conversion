@@ -117,8 +117,9 @@ cv2.destroyAllWindows()
 ## Output:
 ### i)original_image
 <br>
-<br>
+
 ![ORIGINAL](https://user-images.githubusercontent.com/94296805/228018973-a7fe3c3e-bf38-469f-b208-3ea8123bea5e.png)
+<br>
 
 
 ### ii)Convert BGR to HSV
