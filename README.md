@@ -21,7 +21,7 @@ Anaconda - Python 3.7
 <br>
 
 ## Program:
-```python
+
 # Developed By:javith farkhan S
 # Register Number:212221240017
 # i) original_image
