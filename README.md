@@ -116,10 +116,10 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### i)original_image
-<br>
+
 
 ![ORIGINAL](https://user-images.githubusercontent.com/94296805/228018973-a7fe3c3e-bf38-469f-b208-3ea8123bea5e.png)
-<br>
+
 
 
 ### ii)Convert BGR to HSV
@@ -130,8 +130,9 @@ cv2.destroyAllWindows()
 
 ### iii)Convert HSV to RGB
 <br>
-<br>
+
 ![HSV2RGB](https://user-images.githubusercontent.com/94296805/228019159-dbbcbba6-2bf3-4d79-ace5-803594cb1598.png)
+<br>
 
 
 
