@@ -123,8 +123,7 @@ cv2.destroyAllWindows()
 
 
 ### ii)Convert BGR to HSV
-<br>
-<br>
+
 ![BGR2HSV](BGR2YCRCB.png)
 
 
