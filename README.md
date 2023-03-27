@@ -7,43 +7,23 @@ Anaconda - Python 3.7
 ## Algorithm:
 ## Step1:
 
-<br>
-
 Import cv2 and save and image as filename.png
-
-<br>
 
 ## Step2:
 
-<br>
-
 Use imread(filename, flags) to read the file
-
-<br>
 
 ## Step3:
 
-<br>
-
 Use cv2.cvtColor(src, code, dst, dstCn) to convert an image from one color space to another.
-
-<br>
 
 ## Step4:
 
-<br>
-
 Split and merge the image using cv2.split and cv2.merge commands.
-
-<br>
 
 ## Step5:
 
-<br>
-
 End the program and close the output image windows.
-
-<br>
 
 ## Program:
 
