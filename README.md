@@ -124,41 +124,37 @@ cv2.destroyAllWindows()
 
 ### ii)Convert BGR to HSV
 
-![BGR2HSV](BGR2YCRCB.png)
+![BGR2HSV](BGR2HSV.png)
 
 
 
 ### iii)Convert HSV to RGB
-<br>
+
 
 ![HSV2RGB](https://user-images.githubusercontent.com/94296805/228019159-dbbcbba6-2bf3-4d79-ace5-803594cb1598.png)
-<br>
+
 
 
 
 ### iv)convert HSV to BGR
-<br>
-<br>
+
 ![HSV2BGR](https://user-images.githubusercontent.com/94296805/228019212-96fe711c-97a7-4ddc-addb-af3ce0549532.png)
 
 
 ### v) convert RGB to YCrCb
-<br>
-<br>
+
 ![RGB2YCRCB](https://user-images.githubusercontent.com/94296805/228019279-0bd8c9e0-50f8-41a3-a86d-6b7b55e6340f.png)
 
 
 
 ### vi)convert BGR to YCrCb
-<br>
-<br>
+
 ![BGR2YCRCB](https://user-images.githubusercontent.com/94296805/228019338-e775e818-0084-42cc-b14b-ff01e15e4f49.png)
 
 
 
 ### vii)Merged BGR Image
-<br>
-<br>
+
 ![R-CHANNEL](https://user-images.githubusercontent.com/94296805/228020059-29267340-1283-448e-a5da-93e20cdf0f2c.png)
 ![G-CHANNEL](https://user-images.githubusercontent.com/94296805/228020104-89aed6bb-e90b-42d8-b7fb-544b85576b02.png)
 ![B-CHANNEL](https://user-images.githubusercontent.com/94296805/228020159-ca354f2d-bb10-431a-9a2e-aae7b7878d11.png)
@@ -167,14 +163,12 @@ cv2.destroyAllWindows()
 
 
 ### viii)Split HSV
-<br>
-<br>
+
 ![HUE_IMAGE](https://user-images.githubusercontent.com/94296805/228019711-34b29677-ff24-4eb1-930b-2051a3e601b2.png)
 ![SATURATION_IMAGE](https://user-images.githubusercontent.com/94296805/228019775-5873db7c-59ac-4809-ae9c-864720934f87.png)
 ![GRAY_IMAGE](https://user-images.githubusercontent.com/94296805/228019841-a660fc79-ce17-4f26-8ab0-fc592dadbe52.png)
 ### xi) Merge HSV
-<br>
-<br>
+
 ![MERGED_HSV](https://user-images.githubusercontent.com/94296805/228019934-497702b6-9d1d-4c2c-a5b3-7f7223602ba3.png)
 
 
