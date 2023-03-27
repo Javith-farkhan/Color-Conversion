@@ -5,20 +5,25 @@ To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 ## Software Required:
 Anaconda - Python 3.7
 ## Algorithm:
-### Step1:
-<br>
+## Step1:
 
-### Step2:
-<br>
+Import cv2 and save and image as filename.png
 
-### Step3:
-<br>
+## Step2:
 
-### Step4:
-<br>
+Use imread(filename, flags) to read the file
 
-### Step5:
-<br>
+## Step3:
+
+Use cv2.cvtColor(src, code, dst, dstCn) to convert an image from one color space to another.
+
+## Step4:
+
+Split and merge the image using cv2.split and cv2.merge commands.
+
+## Step5:
+
+End the program and close the output image windows.
 
 ## Program:
 
@@ -157,8 +162,11 @@ cv2.destroyAllWindows()
 ### vii)Merged BGR Image
 
 ![R-CHANNEL](https://user-images.githubusercontent.com/94296805/228020059-29267340-1283-448e-a5da-93e20cdf0f2c.png)
+
 ![G-CHANNEL](https://user-images.githubusercontent.com/94296805/228020104-89aed6bb-e90b-42d8-b7fb-544b85576b02.png)
+
 ![B-CHANNEL](https://user-images.githubusercontent.com/94296805/228020159-ca354f2d-bb10-431a-9a2e-aae7b7878d11.png)
+
 ![MERGED_BGR](https://user-images.githubusercontent.com/94296805/228019475-a28af945-6b58-470c-9c5e-f22296109b07.png)
 
 
@@ -166,8 +174,11 @@ cv2.destroyAllWindows()
 ### viii)Split HSV
 
 ![HUE_IMAGE](https://user-images.githubusercontent.com/94296805/228019711-34b29677-ff24-4eb1-930b-2051a3e601b2.png)
+
 ![SATURATION_IMAGE](https://user-images.githubusercontent.com/94296805/228019775-5873db7c-59ac-4809-ae9c-864720934f87.png)
+
 ![GRAY_IMAGE](https://user-images.githubusercontent.com/94296805/228019841-a660fc79-ce17-4f26-8ab0-fc592dadbe52.png)
+
 ### xi) Merge HSV
 
 ![MERGED_HSV](https://user-images.githubusercontent.com/94296805/228019934-497702b6-9d1d-4c2c-a5b3-7f7223602ba3.png)
